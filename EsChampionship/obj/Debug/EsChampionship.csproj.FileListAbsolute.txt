@@ -1,0 +1,59 @@
+C:/Users/lorenzo/Desktop/c sharp/EsChampionship/EsChampionship/bin/Debug/EsChampionship.exe.config
+C:/Users/lorenzo/Desktop/c sharp/EsChampionship/EsChampionship/bin/Debug/EsChampionship.exe
+C:/Users/lorenzo/Desktop/c sharp/EsChampionship/EsChampionship/bin/Debug/EsChampionship.pdb
+C:/Users/lorenzo/Desktop/c sharp/EsChampionship/EsChampionship/obj/Debug/EsChampionship.csproj.AssemblyReference.cache
+C:/Users/lorenzo/Desktop/c sharp/EsChampionship/EsChampionship/obj/Debug/EsChampionship.csproj.CoreCompileInputs.cache
+C:/Users/lorenzo/Desktop/c sharp/EsChampionship/EsChampionship/obj/Debug/EsChampionship.exe
+C:/Users/lorenzo/Desktop/c sharp/EsChampionship/EsChampionship/obj/Debug/EsChampionship.pdb
+/Users/lorenzoandreella/Desktop/WinForm/EsChampionship/EsChampionship/bin/Debug/EsChampionship.exe.config
+/Users/lorenzoandreella/Desktop/WinForm/EsChampionship/EsChampionship/bin/Debug/EsChampionship.exe
+/Users/lorenzoandreella/Desktop/WinForm/EsChampionship/EsChampionship/bin/Debug/EsChampionship.pdb
+/Users/lorenzoandreella/Desktop/WinForm/EsChampionship/EsChampionship/obj/Debug/EsChampionship.csproj.AssemblyReference.cache
+/Users/lorenzoandreella/Desktop/WinForm/EsChampionship/EsChampionship/obj/Debug/EsChampionship.csproj.CoreCompileInputs.cache
+/Users/lorenzoandreella/Desktop/WinForm/EsChampionship/EsChampionship/obj/Debug/EsChampionship.exe
+/Users/lorenzoandreella/Desktop/WinForm/EsChampionship/EsChampionship/obj/Debug/EsChampionship.pdb
+/Users/lorenzoandreella/Desktop/WinForm/EsChampionship/EsChampionship/bin/Debug/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/lorenzoandreella/Desktop/WinForm/EsChampionship/EsChampionship/bin/Debug/System.Buffers.dll
+/Users/lorenzoandreella/Desktop/WinForm/EsChampionship/EsChampionship/bin/Debug/System.IO.Pipelines.dll
+/Users/lorenzoandreella/Desktop/WinForm/EsChampionship/EsChampionship/bin/Debug/System.Memory.dll
+/Users/lorenzoandreella/Desktop/WinForm/EsChampionship/EsChampionship/bin/Debug/System.Numerics.Vectors.dll
+/Users/lorenzoandreella/Desktop/WinForm/EsChampionship/EsChampionship/bin/Debug/System.Runtime.CompilerServices.Unsafe.dll
+/Users/lorenzoandreella/Desktop/WinForm/EsChampionship/EsChampionship/bin/Debug/System.Text.Encodings.Web.dll
+/Users/lorenzoandreella/Desktop/WinForm/EsChampionship/EsChampionship/bin/Debug/System.Text.Json.dll
+/Users/lorenzoandreella/Desktop/WinForm/EsChampionship/EsChampionship/bin/Debug/System.Threading.Tasks.Extensions.dll
+/Users/lorenzoandreella/Desktop/WinForm/EsChampionship/EsChampionship/bin/Debug/Microsoft.Bcl.AsyncInterfaces.xml
+/Users/lorenzoandreella/Desktop/WinForm/EsChampionship/EsChampionship/bin/Debug/System.Buffers.xml
+/Users/lorenzoandreella/Desktop/WinForm/EsChampionship/EsChampionship/bin/Debug/System.IO.Pipelines.xml
+/Users/lorenzoandreella/Desktop/WinForm/EsChampionship/EsChampionship/bin/Debug/System.Memory.xml
+/Users/lorenzoandreella/Desktop/WinForm/EsChampionship/EsChampionship/bin/Debug/System.Numerics.Vectors.xml
+/Users/lorenzoandreella/Desktop/WinForm/EsChampionship/EsChampionship/bin/Debug/System.Runtime.CompilerServices.Unsafe.xml
+/Users/lorenzoandreella/Desktop/WinForm/EsChampionship/EsChampionship/bin/Debug/System.Text.Encodings.Web.xml
+/Users/lorenzoandreella/Desktop/WinForm/EsChampionship/EsChampionship/bin/Debug/System.Text.Json.xml
+/Users/lorenzoandreella/Desktop/WinForm/EsChampionship/EsChampionship/bin/Debug/System.Threading.Tasks.Extensions.xml
+/Users/lorenzoandreella/Desktop/WinForm/EsChampionship/EsChampionship/obj/Debug/EsChampionship.csproj.CopyComplete
+C:\Users\lorenzo\Desktop\c sharp\EsChampionship\EsChampionship\bin\Debug\EsChampionship.exe.config
+C:\Users\lorenzo\Desktop\c sharp\EsChampionship\EsChampionship\bin\Debug\EsChampionship.exe
+C:\Users\lorenzo\Desktop\c sharp\EsChampionship\EsChampionship\bin\Debug\EsChampionship.pdb
+C:\Users\lorenzo\Desktop\c sharp\EsChampionship\EsChampionship\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lorenzo\Desktop\c sharp\EsChampionship\EsChampionship\bin\Debug\System.Buffers.dll
+C:\Users\lorenzo\Desktop\c sharp\EsChampionship\EsChampionship\bin\Debug\System.IO.Pipelines.dll
+C:\Users\lorenzo\Desktop\c sharp\EsChampionship\EsChampionship\bin\Debug\System.Memory.dll
+C:\Users\lorenzo\Desktop\c sharp\EsChampionship\EsChampionship\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lorenzo\Desktop\c sharp\EsChampionship\EsChampionship\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lorenzo\Desktop\c sharp\EsChampionship\EsChampionship\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\lorenzo\Desktop\c sharp\EsChampionship\EsChampionship\bin\Debug\System.Text.Json.dll
+C:\Users\lorenzo\Desktop\c sharp\EsChampionship\EsChampionship\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lorenzo\Desktop\c sharp\EsChampionship\EsChampionship\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lorenzo\Desktop\c sharp\EsChampionship\EsChampionship\bin\Debug\System.Buffers.xml
+C:\Users\lorenzo\Desktop\c sharp\EsChampionship\EsChampionship\bin\Debug\System.IO.Pipelines.xml
+C:\Users\lorenzo\Desktop\c sharp\EsChampionship\EsChampionship\bin\Debug\System.Memory.xml
+C:\Users\lorenzo\Desktop\c sharp\EsChampionship\EsChampionship\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lorenzo\Desktop\c sharp\EsChampionship\EsChampionship\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lorenzo\Desktop\c sharp\EsChampionship\EsChampionship\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\lorenzo\Desktop\c sharp\EsChampionship\EsChampionship\bin\Debug\System.Text.Json.xml
+C:\Users\lorenzo\Desktop\c sharp\EsChampionship\EsChampionship\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lorenzo\Desktop\c sharp\EsChampionship\EsChampionship\obj\Debug\EsChampionship.csproj.AssemblyReference.cache
+C:\Users\lorenzo\Desktop\c sharp\EsChampionship\EsChampionship\obj\Debug\EsChampionship.csproj.CoreCompileInputs.cache
+C:\Users\lorenzo\Desktop\c sharp\EsChampionship\EsChampionship\obj\Debug\EsChampi.4D1DC90F.Up2Date
+C:\Users\lorenzo\Desktop\c sharp\EsChampionship\EsChampionship\obj\Debug\EsChampionship.exe
+C:\Users\lorenzo\Desktop\c sharp\EsChampionship\EsChampionship\obj\Debug\EsChampionship.pdb

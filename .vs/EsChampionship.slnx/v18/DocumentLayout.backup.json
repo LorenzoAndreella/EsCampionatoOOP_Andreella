@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsChampionship\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A99A608-6F1B-49EC-B610-2A92F1992DA7}|EsChampionship\\EsChampionship.csproj|C:\\Users\\lorenzo\\Desktop\\c sharp\\EsChampionship\\eschampionship\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A99A608-6F1B-49EC-B610-2A92F1992DA7}|EsChampionship\\EsChampionship.csproj|solutionrelative:eschampionship\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A99A608-6F1B-49EC-B610-2A92F1992DA7}|EsChampionship\\EsChampionship.csproj|c:\\users\\lorenzo\\desktop\\c sharp\\eschampionship\\eschampionship\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A99A608-6F1B-49EC-B610-2A92F1992DA7}|EsChampionship\\EsChampionship.csproj|solutionrelative:eschampionship\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A99A608-6F1B-49EC-B610-2A92F1992DA7}|EsChampionship\\EsChampionship.csproj|C:\\Users\\lorenzo\\Desktop\\c sharp\\EsChampionship\\eschampionship\\cpartita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A99A608-6F1B-49EC-B610-2A92F1992DA7}|EsChampionship\\EsChampionship.csproj|solutionrelative:eschampionship\\cpartita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A99A608-6F1B-49EC-B610-2A92F1992DA7}|EsChampionship\\EsChampionship.csproj|C:\\Users\\lorenzo\\Desktop\\c sharp\\EsChampionship\\eschampionship\\cpartitaeliminazione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A99A608-6F1B-49EC-B610-2A92F1992DA7}|EsChampionship\\EsChampionship.csproj|solutionrelative:eschampionship\\cpartitaeliminazione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A99A608-6F1B-49EC-B610-2A92F1992DA7}|EsChampionship\\EsChampionship.csproj|C:\\Users\\lorenzo\\Desktop\\c sharp\\EsChampionship\\eschampionship\\crepositorypartite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A99A608-6F1B-49EC-B610-2A92F1992DA7}|EsChampionship\\EsChampionship.csproj|solutionrelative:eschampionship\\crepositorypartite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A99A608-6F1B-49EC-B610-2A92F1992DA7}|EsChampionship\\EsChampionship.csproj|C:\\Users\\lorenzo\\Desktop\\c sharp\\EsChampionship\\eschampionship\\cpartitadati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A99A608-6F1B-49EC-B610-2A92F1992DA7}|EsChampionship\\EsChampionship.csproj|solutionrelative:eschampionship\\cpartitadati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A99A608-6F1B-49EC-B610-2A92F1992DA7}|EsChampionship\\EsChampionship.csproj|C:\\Users\\lorenzo\\Desktop\\c sharp\\EsChampionship\\eschampionship\\cstatistichesquadra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A99A608-6F1B-49EC-B610-2A92F1992DA7}|EsChampionship\\EsChampionship.csproj|solutionrelative:eschampionship\\cstatistichesquadra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A99A608-6F1B-49EC-B610-2A92F1992DA7}|EsChampionship\\EsChampionship.csproj|C:\\Users\\lorenzo\\Desktop\\c sharp\\EsChampionship\\eschampionship\\cpartitafinale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A99A608-6F1B-49EC-B610-2A92F1992DA7}|EsChampionship\\EsChampionship.csproj|solutionrelative:eschampionship\\cpartitafinale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A99A608-6F1B-49EC-B610-2A92F1992DA7}|EsChampionship\\EsChampionship.csproj|C:\\Users\\lorenzo\\Desktop\\c sharp\\EsChampionship\\eschampionship\\irisultato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A99A608-6F1B-49EC-B610-2A92F1992DA7}|EsChampionship\\EsChampionship.csproj|solutionrelative:eschampionship\\irisultato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A99A608-6F1B-49EC-B610-2A92F1992DA7}|EsChampionship\\EsChampionship.csproj|C:\\Users\\lorenzo\\Desktop\\c sharp\\EsChampionship\\eschampionship\\cpartitagirone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A99A608-6F1B-49EC-B610-2A92F1992DA7}|EsChampionship\\EsChampionship.csproj|solutionrelative:eschampionship\\cpartitagirone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRisultato.cs",
+              "DocumentMoniker": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsChampionship\\EsChampionship\\IRisultato.cs",
+              "RelativeDocumentMoniker": "EsChampionship\\IRisultato.cs",
+              "ToolTip": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsChampionship\\EsChampionship\\IRisultato.cs",
+              "RelativeToolTip": "EsChampionship\\IRisultato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T20:30:37.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CPartitaFinale.cs",
+              "DocumentMoniker": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsChampionship\\EsChampionship\\CPartitaFinale.cs",
+              "RelativeDocumentMoniker": "EsChampionship\\CPartitaFinale.cs",
+              "ToolTip": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsChampionship\\EsChampionship\\CPartitaFinale.cs",
+              "RelativeToolTip": "EsChampionship\\CPartitaFinale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T20:28:21.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsChampionship\\EsChampionship\\IRepository.cs",
+              "RelativeDocumentMoniker": "EsChampionship\\IRepository.cs",
+              "ToolTip": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsChampionship\\EsChampionship\\IRepository.cs",
+              "RelativeToolTip": "EsChampionship\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T20:26:52.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CStatisticheSquadra.cs",
+              "DocumentMoniker": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsChampionship\\EsChampionship\\CStatisticheSquadra.cs",
+              "RelativeDocumentMoniker": "EsChampionship\\CStatisticheSquadra.cs",
+              "ToolTip": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsChampionship\\EsChampionship\\CStatisticheSquadra.cs",
+              "RelativeToolTip": "EsChampionship\\CStatisticheSquadra.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T20:19:48.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CPartitaDati.cs",
+              "DocumentMoniker": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsChampionship\\EsChampionship\\CPartitaDati.cs",
+              "RelativeDocumentMoniker": "EsChampionship\\CPartitaDati.cs",
+              "ToolTip": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsChampionship\\EsChampionship\\CPartitaDati.cs",
+              "RelativeToolTip": "EsChampionship\\CPartitaDati.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T20:12:16.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CRepositoryPartite.cs",
+              "DocumentMoniker": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsChampionship\\EsChampionship\\CRepositoryPartite.cs",
+              "RelativeDocumentMoniker": "EsChampionship\\CRepositoryPartite.cs",
+              "ToolTip": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsChampionship\\EsChampionship\\CRepositoryPartite.cs",
+              "RelativeToolTip": "EsChampionship\\CRepositoryPartite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T20:08:35.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CPartitaEliminazione.cs",
+              "DocumentMoniker": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsChampionship\\EsChampionship\\CPartitaEliminazione.cs",
+              "RelativeDocumentMoniker": "EsChampionship\\CPartitaEliminazione.cs",
+              "ToolTip": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsChampionship\\EsChampionship\\CPartitaEliminazione.cs",
+              "RelativeToolTip": "EsChampionship\\CPartitaEliminazione.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T20:07:56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CPartita.cs",
+              "DocumentMoniker": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsChampionship\\EsChampionship\\CPartita.cs",
+              "RelativeDocumentMoniker": "EsChampionship\\CPartita.cs",
+              "ToolTip": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsChampionship\\EsChampionship\\CPartita.cs",
+              "RelativeToolTip": "EsChampionship\\CPartita.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAkwLIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T20:06:00.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsChampionship\\EsChampionship\\Program.cs",
+              "RelativeDocumentMoniker": "EsChampionship\\Program.cs",
+              "ToolTip": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsChampionship\\EsChampionship\\Program.cs",
+              "RelativeToolTip": "EsChampionship\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T09:14:19.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CPartitaGirone.cs",
+              "DocumentMoniker": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsChampionship\\EsChampionship\\CPartitaGirone.cs",
+              "RelativeDocumentMoniker": "EsChampionship\\CPartitaGirone.cs",
+              "ToolTip": "C:\\Users\\lorenzo\\Desktop\\c sharp\\EsChampionship\\EsChampionship\\CPartitaGirone.cs",
+              "RelativeToolTip": "EsChampionship\\CPartitaGirone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T20:32:01.741Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
